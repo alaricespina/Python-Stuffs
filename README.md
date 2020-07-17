@@ -21,7 +21,7 @@ Python Numbers
 -[numbers.py](blob/master/numbers.py)
 
 Python Strings 
--[strings.py] (blob/master/strings.py)
+-[strings.py](blob/master/strings.py)
 
 Python Booleans
 -[bools.py](blob/master/bools.py)
